@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<div id="profile-views">
+<div id="profile-views" align="center">
   <img src="https://komarev.com/ghpvc/?username=mklicius&style=flat-square&color=blue" alt="number of profile views"/>
 </div>
 
