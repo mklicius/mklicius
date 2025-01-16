@@ -14,13 +14,6 @@
 
 --- 
 
-<div align="center"> 
-  <h1>My Stats</h1>
-
-
-</div>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mklicius&theme=dark&hide_border=true&border_radius=20)](https://git.io/streak-stats)
 
 <!--
 **mklicius/mklicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
