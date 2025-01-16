@@ -6,12 +6,10 @@
   <a href="https://www.linkedin.com/in/mantas-klicius-452222177/">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
-
-<div id="profiles-views" align="center">
   <img src="https://komarev.com/ghpvc/?username=mklicius&style=flat-square&color=blue" alt="number of profile views"/>
 </div>
 
+ 
 <!--
 **mklicius/mklicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
