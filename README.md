@@ -17,7 +17,7 @@
     <h3>About me</h3>
 </div>
 
-- 💻 Experienced backend developer with expertise in PHP and many other technologies.
+- 💻 Experienced full-stack developer with expertise in a wide variety of FE and BE technologies.
 - 📚 Learning Vue.js to expand my frontend knowledge
 - 💡 Passionate about exploring new technologies, calisthenics, indoor gardening and cooking.
 
