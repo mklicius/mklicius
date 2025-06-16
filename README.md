@@ -18,7 +18,6 @@
 </div>
 
 - 💻 Experienced full-stack developer with expertise in a wide variety of FE and BE technologies.
-- 📚 Learning Vue.js to expand my frontend knowledge
 - 💡 Passionate about exploring new technologies, calisthenics, indoor gardening and cooking.
 
 <div id="skills" align="center">
@@ -53,5 +52,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" **alt="JetBrains" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony" **alt="Symfony" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Symfony" **alt="Symfony" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Symfony" **alt="Symfony" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Symfony" **alt="Symfony" width="40" height="40"/>&nbsp;
 </div>
 
