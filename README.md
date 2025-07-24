@@ -56,5 +56,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" **alt="Weback" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/inertiajs/inertiajs-original.svg" title="IntertiaJs" **alt="InertiaJs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-line.svg" title="Yarn" **alt="Yar" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="Yaml" **alt="Yaml" width="40" height="40"/>&nbsp;
 </div>
 
